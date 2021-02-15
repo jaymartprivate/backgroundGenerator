@@ -1,7 +1,7 @@
-let pageBG = document.querySelector('body');
+const pageBG = document.querySelector('body');
 
 let firstColor = document.querySelector('#first-color');
-let secondColor = document.querySelector('#second-color');
+const secondColor = document.querySelector('#second-color');
 
 let bgColorProperty = document.querySelector('.bg-color-text');
 
